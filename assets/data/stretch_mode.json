@@ -1,0 +1,166 @@
+{
+  "exercises": [
+    {
+      "id": "study_01",
+      "mode": "Study",
+      "title": "Eye Palming",
+      "description": "Rub your palms together quickly until they feel warm, close your eyes, then gently place your palms over your eyes (without pressing) to relax them from bright light.",
+      "durationInSeconds": 20,
+      "muscleGroup": "Eyes",
+      "videoPath": "assets/videos/study_mode/Eye_Palming.mp4"
+    },
+    {
+      "id": "study_02",
+      "mode": "Study",
+      "title": "Eye Focus Shift",
+      "description": "Raise your index finger about an arms length away and focus on your fingertip for 10 seconds, then shift your focus to an object farther away for another 10 seconds.",
+      "durationInSeconds": 20,
+      "muscleGroup": "Eyes",
+      "videoPath": "assets/videos/study_mode/Eye_Focus_Shift.mp4"
+    },
+    {
+      "id": "study_03",
+      "mode": "Study",
+      "title": "Overhead Reach Chair",
+      "description": "Sit upright, place one hand on your thigh, raise the opposite arm overhead and gently lean to the side; hold for 10 seconds each side.",
+      "durationInSeconds": 20,
+      "muscleGroup": "Upper Back",
+      "videoPath": "assets/videos/study_mode/Chair_Overhead_Reach.mp4"
+    },
+    {
+      "id": "study_04",
+      "mode": "Study",
+      "title": "Desk Child's Pose",
+      "description": "Move your chair slightly away from the desk, place your hands on the edge of the desk, lower your head between your arms, and press your chest down toward the floor until you feel a stretch in your back.",
+      "durationInSeconds": 30,
+      "muscleGroup": "Back",
+      "videoPath": "assets/videos/study_mode/Desk_Child's_Pose.mp4"
+    },
+    {
+      "id": "study_05",
+      "mode": "Study",
+      "title": "Levator Scapulae Stretch",
+      "description": "Turn your head 45° to the side, bend your neck forward, gently pull with your hand behind the head; hold 15 seconds each side.",
+      "durationInSeconds": 30,
+      "muscleGroup": "Neck",
+      "videoPath": "assets/videos/study_mode/Levator_Scapulae_Stretch.mp4"
+    },
+    {
+      "id": "study_06",
+      "mode": "Study",
+      "title": "Seated Side Bend",
+      "description": "Raise your right arm overhead and hold the chair with your left hand, then lean your torso to the left until you feel a stretch along the right side of your body; hold 15 seconds each side.",
+      "durationInSeconds": 30,
+      "muscleGroup": "Obliques",
+      "videoPath": "assets/videos/study_mode/Seated_Side_Bend.mp4"
+    },
+    {
+      "id": "work_01",
+      "mode": "Work",
+      "title": "Finger Stretch",
+      "description": "Spread your fingers as wide as possible and hold for 3 seconds, then relax into a loose fist; repeat for 5 rounds.",
+      "durationInSeconds": 15,
+      "muscleGroup": "Fingers",
+      "videoPath": "assets/videos/Work_mode/Finger_Stretch.mp4"
+    },
+    {
+      "id": "work_02",
+      "mode": "Work",
+      "title": "Triceps Stretch",
+      "description": "Raise your right arm overhead and bend the elbow so your hand touches the middle of your back, then use your left hand to gently pull the right elbow inward; hold 15 seconds each side.",
+      "durationInSeconds": 30,
+      "muscleGroup": "Arms",
+      "videoPath": "assets/videos/Work_mode/Triceps_Stretch.mp4"
+    },
+    {
+      "id": "work_03",
+      "mode": "Work",
+      "title": "Chair Chest Stretch",
+      "description": "Sit near the edge of the chair, reach both hands back to hold the backrest, lift your chest and gently lean forward to stretch the chest.",
+      "durationInSeconds": 20,
+      "muscleGroup": "Chest",
+      "videoPath": "assets/videos/Work_mode/Chair_Chest_Stretch.mp4"
+    },
+    {
+      "id": "work_04",
+      "mode": "Work",
+      "title": "Seated Cat-Cow",
+      "description": "Place your hands on your thighs, inhale while lifting your chest and looking up, then exhale while rounding your back and dropping your head; repeat slowly for 5 rounds.",
+      "durationInSeconds": 30,
+      "muscleGroup": "Back",
+      "videoPath": "assets/videos/Work_mode/SeatedCatCow.mp4"
+    },
+    {
+      "id": "work_05",
+      "mode": "Work",
+      "title": "Seated Hip Marching",
+      "description": "Sit upright and lift your right knee as high as possible off the floor, lower it, then lift your left knee; alternate continuously for 20 repetitions.",
+      "durationInSeconds": 30,
+      "muscleGroup": "Hips",
+      "videoPath": "assets/videos/Work_mode/SeatedHipMarching.mp4"
+    },
+    {
+      "id": "work_06",
+      "mode": "Work",
+      "title": "Seated Hamstring Stretch",
+      "description": "Sit at the edge of the chair, extend your right leg straight forward with your toes pointing up, slowly lean forward to reach toward your toes; hold for 15 seconds on each side.",
+      "durationInSeconds": 30,
+      "muscleGroup": "Legs",
+      "videoPath": "assets/videos/Work_mode/SeatedHamstringStretch.mp4"
+    },
+    {
+      "id": "meeting_01",
+      "mode": "Meeting",
+      "title": "Shoulder Blade Squeeze",
+      "description": "Sit upright with your hands resting on your thighs, gently squeeze your shoulder blades together, hold for 5 seconds, then relax; repeat 3 times.",
+      "durationInSeconds": 15,
+      "muscleGroup": "Upper Back",
+      "videoPath": "assets/videos/meeting_mode/ShoulderBladeSqueeze.mp4"
+    },
+    {
+      "id": "meeting_02",
+      "mode": "Meeting",
+      "title": "Ankle Rotations",
+      "description": "Lift one foot slightly off the floor and slowly rotate your ankle in a circular motion; do for 10 seconds on each side.",
+      "durationInSeconds": 20,
+      "muscleGroup": "Ankles",
+      "videoPath": "assets/videos/meeting_mode/AnkleRotations.mp4"
+    },
+    {
+      "id": "meeting_03",
+      "mode": "Meeting",
+      "title": "Leg Extension",
+      "description": "Slowly extend one leg straight forward and flex your toes upward, hold for 10 seconds, then lower your leg and switch sides.",
+      "durationInSeconds": 20,
+      "muscleGroup": "Legs",
+      "videoPath": "assets/videos/meeting_mode/LegExtension.mp4"
+    },
+    {
+      "id": "meeting_04",
+      "mode": "Meeting",
+      "title": "Seated Calf Raises",
+      "description": "Keep your toes on the floor under the desk, raise both heels as high as possible, hold for 2 seconds, then lower them; repeat for 10 times.",
+      "durationInSeconds": 20,
+      "muscleGroup": "Calves",
+      "videoPath": "assets/videos/meeting_mode/SeatedCalfRaises.mp4"
+    },
+    {
+      "id": "meeting_05",
+      "mode": "Meeting",
+      "title": "Hand Stretch",
+      "description": "Rest your hands on your lap, make a tight fist for 3 seconds, then open your fingers as wide as possible; repeat alternately.",
+      "durationInSeconds": 15,
+      "muscleGroup": "Hands",
+      "videoPath": "assets/videos/meeting_mode/HandStretch.mp4"
+    },
+    {
+      "id": "meeting_06",
+      "mode": "Meeting",
+      "title": "Subtle Chest Lift",
+      "description": "Sit upright, take a deep breath in while lifting your chest and lowering your shoulders, then hold briefly as you breathe out to relax your back muscles.",
+      "durationInSeconds": 15,
+      "muscleGroup": "Chest",
+      "videoPath": "assets/videos/meeting_mode/SubtleChestLift.mp4"
+    }
+  ]
+}

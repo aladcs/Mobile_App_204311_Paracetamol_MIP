@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "id": "neck",
+      "name": "Neck",
+      "duration": "45 sec",
+      "image": "assets/images/frontbody.png",
+      "stretches": [
+        {
+          "title": "Neck Turn",
+          "description": "Gently turn your head slowly to the left and right.\nHold for 15 seconds on each side.",
+          "duration": "15 sec per side",
+          "videoPath": "assets/videos/Neck/Neck_turn.mp4"
+        },
+        {
+          "title": "Neck Tilt",
+          "description": "Gently tilt your ear toward your shoulder. Use your hand to apply light pressure.\nHold for 15 seconds on each side.",
+          "duration": "15 sec per side",
+          "videoPath": "assets/videos/Neck/Neck_tilt.mp4"
+        },
+        {
+          "title": "Chin Tuck",
+          "description": "Sit straight and gently pull your chin straight back (giving yourself a double chin).\nHold for 3 seconds, repeat 5 times.",
+          "duration": "3 sec x 5 reps",
+          "videoPath": "assets/videos/Neck/Chin_tuck.mp4"
+        }
+      ]
+    },
+    {
+      "id": "shoulders",
+      "name": "Shoulders",
+      "duration": "1 min",
+      "image": "assets/images/frontbody.png",
+      "stretches": [
+        {
+          "title": "Shoulder Shrugs",
+          "description": "Lift both shoulders up toward your ears. Hold for 3 seconds, then drop them completely.\nRepeat 5 times.",
+          "duration": "3 sec x 5 reps",
+          "videoPath": "assets/videos/Shoulders/Shoulder_shrugs.mp4"
+        },
+        {
+          "title": "Shoulder Rolls",
+          "description": "Roll your shoulders backward in a smooth circular motion.\nRepeat 10 times to release tension.",
+          "duration": "10 reps",
+          "videoPath": "assets/videos/Shoulders/Shoulder_rolls.mp4"
+        },
+        {
+          "title": "Cross-Body Stretch",
+          "description": "Bring one arm across your chest and use your other hand to gently pull it closer.\nHold for 15 seconds on each side.",
+          "duration": "15 sec per side",
+          "videoPath": "assets/videos/Shoulders/Cross_body_stretch.mp4"
+        }
+      ]
+    },
+    {
+      "id": "forearms",
+      "name": "Forearms",
+      "duration": "30 sec",
+      "image": "assets/images/frontbody.png",
+      "stretches": [
+        {
+          "title": "Forearm Flexor Stretch",
+          "description": "Extend your arm forward, palm facing up. Use your other hand to gently pull your fingers down.\nHold for 15 seconds per arm.",
+          "duration": "15 sec per arm",
+          "videoPath": "assets/videos/Forearms/Forearm_Flexor_Stretch.mp4"
+        },
+        {
+          "title": "Forearm Extensor Stretch",
+          "description": "Extend your arm forward, palm facing down. Gently press the back of your hand down towards your body.\nHold for 15 seconds per arm.",
+          "duration": "15 sec per arm",
+          "videoPath": "assets/videos/Forearms/Forearm_Extensor_Stretch.mp4"
+        }
+      ]
+    },
+    {
+      "id": "wrists",
+      "name": "Wrists",
+      "duration": "30 sec",
+      "image": "assets/images/frontbody.png",
+      "stretches": [
+        {
+          "title": "Wrist Rotations",
+          "description": "Gently make a loose fist and rotate your wrists in circular motions, clockwise and counterclockwise.\n10 times each direction.",
+          "duration": "10 reps each direction",
+          "videoPath": "assets/videos/Wrists/Wrist_Rotations.mp4"
+        },
+        {
+          "title": "Prayer Stretch",
+          "description": "Place your palms together in front of your chest. Gently press them together while lowering your hands until you feel a stretch.\nHold for 15 seconds.",
+          "duration": "15 sec",
+          "videoPath": "assets/videos/Wrists/Prayer_Stretch.mp4"
+        }
+      ]
+    },
+    {
+      "id": "upper_back",
+      "name": "Upper Back",
+      "duration": "30 sec",
+      "image": "assets/images/backbody.png",
+      "stretches": [
+        {
+          "title": "Chest Opener",
+          "description": "Interlace your fingers behind your head, pull your elbows back, and gently push your chest forward.\nHold for 15 seconds.",
+          "duration": "15 sec",
+          "videoPath": "assets/videos/Upper_Back/Chest_Opener.mp4"
+        },
+        {
+          "title": "The Bear Hug",
+          "description": "Hug yourself tightly by reaching your hands toward your opposite shoulder blades. Drop your chin to your chest.\nHold for 15 seconds.",
+          "duration": "15 sec",
+          "videoPath": "assets/videos/Upper_Back/The_Bear_Hug.mp4"
+        }
+      ]
+    },
+    {
+      "id": "lower_back",
+      "name": "Lower Back",
+      "duration": "40 sec",
+      "image": "assets/images/backbody.png",
+      "stretches": [
+        {
+          "title": "Seated Spinal Twist",
+          "description": "Sit sideways on your chair. Gently twist your torso to look over your shoulder, holding the back of the chair.\nHold for 15 seconds per side.",
+          "duration": "15 sec per side",
+          "videoPath": "assets/videos/Lower_back/Seated_Spinal_Twist.mp4"
+        },
+        {
+          "title": "Seated Forward Bend",
+          "description": "Sit with feet flat, slightly apart. Slowly bend forward, dropping your chest toward your knees and letting your arms hang.\nHold for 15 seconds.",
+          "duration": "15 sec",
+          "videoPath": "assets/videos/Lower_back/Seated_Forward_Bend.mp4"
+        }
+      ]
+    },
+    {
+      "id": "hips",
+      "name": "Hips",
+      "duration": "35 sec",
+      "image": "assets/images/backbody.png",
+      "stretches": [
+        {
+          "title": "Seated Figure Four",
+          "description": "Sit straight and place your right ankle over your left knee. Gently lean forward until you feel a stretch in your right hip.\nHold for 15 seconds per side.",
+          "duration": "15 sec per side",
+          "videoPath": "assets/videos/Hips/Seated_Figure_Four.mp4"
+        },
+        {
+          "title": "Knee-to-Chest",
+          "description": "Sit tall, lift one knee toward your chest, and hug it with both hands.\nHold for 15 seconds per side.",
+          "duration": "15 sec per side",
+          "videoPath": "assets/videos/Hips/Seated_Knee_to_Chest.mp4"
+        }
+      ]
+    }
+  ],
+  "muscle_mapping": {
+    "Neck": "neck",
+    "Left Shoulder": "shoulders",
+    "Right Shoulder": "shoulders",
+    "Left Forearm": "forearms",
+    "Right Forearm": "forearms",
+    "Left Wrist": "wrists",
+    "Right Wrist": "wrists",
+    "Upper Back": "upper_back",
+    "Lower Back": "lower_back",
+    "Left Hip": "hips",
+    "Right Hip": "hips"
+  }
+}

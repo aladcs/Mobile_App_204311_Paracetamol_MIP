@@ -1,0 +1,44 @@
+name: move_in_peace
+description: A simple stretch reminder app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_local_notifications: ^17.0.0
+  permission_handler: ^11.0.0
+  video_player: ^2.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.14.4 
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/data/
+    - assets/videos/Forearms/
+    - assets/videos/Hips/
+    - assets/videos/Lower_back/
+    - assets/videos/Neck/
+    - assets/videos/Shoulders/
+    - assets/videos/Upper_Back/
+    - assets/videos/Work_mode/
+    - assets/videos/Wrists/
+    - assets/videos/meeting_mode/
+    - assets/videos/study_mode/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png" 
+  remove_alpha_ios: true 
